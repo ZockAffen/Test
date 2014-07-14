@@ -15,15 +15,13 @@ namespace Test
         public Form1()
         {
             InitializeComponent();
-<<<<<<< HEAD
+
             //
-=======
             TextBox tb = new TextBox();
             tb.Left = 0;
             tb.Top = 0;
             tb.Width = 500;
-            tb.Text = "TEXT";
->>>>>>> origin/master
+            tb.Text = "Das geht nich";
         }
     }
 }
