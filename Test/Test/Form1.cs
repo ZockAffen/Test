@@ -15,6 +15,7 @@ namespace Test
         public Form1()
         {
             InitializeComponent();
+            //
             TextBox tb = new TextBox();
             tb.Left = 0;
             tb.Top = 0;
