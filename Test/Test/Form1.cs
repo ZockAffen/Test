@@ -19,7 +19,7 @@ namespace Test
             tb.Left = 0;
             tb.Top = 0;
             tb.Width = 500;
-            tb.Text = "TEXT";
+            tb.Text = "Anderer Text von der Textbox";
         }
     }
 }
