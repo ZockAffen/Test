@@ -20,8 +20,7 @@ namespace Test
             tb.Left = 0;
             tb.Top = 0;
             tb.Width = 500;
-            tb.Text = "Anderer Text von der Textbox";
-            tb.Text = "Das geht nich";
+            tb.Text = "Das geht!";
         }
     }
 }
