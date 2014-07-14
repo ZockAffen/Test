@@ -10,16 +10,11 @@ using System.Windows.Forms;
 
 namespace Test
 {
-    public partial class Form1 : Form
+    public partial class Form2 : Form
     {
-        public Form1()
+        public Form2()
         {
             InitializeComponent();
-            TextBox tb = new TextBox();
-            tb.Left = 0;
-            tb.Top = 0;
-            tb.Width = 500;
-            tb.Text = "TEXT";
         }
     }
 }
